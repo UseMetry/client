@@ -9,11 +9,11 @@ Our goal is to analyze the users in the application with a single SDK implementa
 
 | Project           | Status | Description |
 |-------------------|--------|-------------|
+| [usemetry]        | v0.1.0 | Client App |
 | [sdk-generator]   | v0.1.0 | SDK App for website |
-| [client]          | v0.1.0 | Client App |
 | [middleware]      | v0.1.0 | Router for request of Client App |
 
-[client]: https://github.com/usemetry/client
+[client]: https://github.com/usemetry/usemetry
 [sdk-generator]: https://github.com/usemetry/sdk-generator
 [middleware]: https://github.com/usemetry/middleware
 
