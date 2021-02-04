@@ -13,7 +13,7 @@ Our goal is to analyze the users in the application with a single SDK implementa
 | [sdk-generator]   | v0.1.0 | SDK App for website |
 | [middleware]      | v0.1.0 | Router for request of Client App |
 
-[client]: https://github.com/usemetry/usemetry
+[usemetry]: https://github.com/usemetry/usemetry
 [sdk-generator]: https://github.com/usemetry/sdk-generator
 [middleware]: https://github.com/usemetry/middleware
 
