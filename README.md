@@ -43,7 +43,7 @@ Please make sure to read the [Contributing Guide](https://github.com/usemetry/cl
 
 Thank you to all the people who already contributed to UseMetry!
 
-<a href="https://github.com/usemetry/client/graphs/contributors"><img src="https://opencollective.com/usemetry/contributors.svg?width=890" /></a>
+<!--<a href="https://github.com/usemetry/client/graphs/contributors"><img src="https://opencollective.com/usemetry/contributors.svg?width=890" /></a>-->
 
 ## License
 
